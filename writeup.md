@@ -141,8 +141,8 @@ Then I repeated this process on track two in order to get more data points and g
 
 To augment the data sat, I added images from the left and right cameras and added an offset to their steering angle output. I also flipped all of the images and angles in order to reduce the impact of the left turn bias of each track. By flipping images, I had an equal number of examples with left and right turns. For example, here is an image that has then been flipped:
 
+![alt text][image5]
 ![alt text][image6]
-![alt text][image7]
 
 After the collection process, I had 9446 examples of images and steering angle pairs. 
 
